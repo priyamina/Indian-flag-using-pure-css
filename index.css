@@ -1,0 +1,120 @@
+ .bigline {
+        height: 100%;
+        width: 1%;
+        background-color: brown;
+        z-index: 1;
+        position: fixed;
+      }
+
+.mainbox{
+    background-color:aquamarine;
+    height: 100px;
+    width:50%;
+    
+}
+.box1{
+    background-color: orangered;
+    height:100px;
+}
+.box3{
+    background-color:green;
+    height: 100px;
+}
+.box2{
+    background-color:white;
+    height: 123px;
+}
+.box2 .small {
+    margin-left:40%;
+    background-color: blue;
+    height: 120px;
+    width: 120px;
+    border: 2px solid lightblue;
+    border-radius: 50%;
+  }
+.box2 .small .stick1{
+    margin-top: 58px;
+    background-color: white;
+    height: 2px;
+}
+.box2 .small .stick2{
+background-color: white;
+height: 2px;
+rotate:-90deg;
+width:101%;
+margin-left: 0px;
+}
+.box2 .small .stick3{
+    background-color: white;
+    height: 2px;
+    rotate:48deg;
+    width:107%;
+    }
+    .box2 .small .stick4{
+        background-color: white;
+        height: 2px;
+        rotate:90deg;
+        width:85%;
+        }
+        .box2 .small .stick4{
+            background-color: white;
+            height: 2px;
+            rotate:-51deg;
+            width:100%;
+            margin-top: 0px;
+            }
+            .box2 .small .stick5{
+                background-color: white;
+                height: 2px;
+                rotate:205deg;
+                width:131%;
+                }
+                .box2 .small .stick6{
+                    background-color: white;
+                    height: 2px;
+                    rotate:110deg;
+                    width:100%;
+                    margin-left: 0px;
+                    margin-top: -8px;
+                    }
+                    .box2 .small .stick7{
+                        background-color: white;
+                        height: 2px;
+                        rotate:148deg;
+                        width:102%;
+                        }
+                        .box2 .small .stick8{
+                            background-color: white;
+                            height: 2px;
+                            rotate:77deg;
+                            width:102%;
+                            /*! margin-top: -1px; */
+                            }
+                            .box2 .small .stick9{
+                                background-color: white;
+                                height: 2px;
+                                rotate:-14deg;
+                                width:101%;
+                                margin-top: -6px;
+                                }
+                                     
+                                .box2 .small .stick10{
+                                    background-color: white;
+                                    height: 2px;
+                                    rotate:13deg;
+                                    width:101%;
+                                    margin-top: -5px;
+                                    }
+                                    .box2 .small .stick11{
+                                        background-color: white;
+                                        height: 2px;
+                                        rotate:63deg;
+                                        width:104%;
+                                        }
+                                        .box2 .small .stick12{
+                                            background-color: white;
+                                            height: 2px;
+                                            rotate:34deg;
+                                            width:106%;
+                                            }
+                           
